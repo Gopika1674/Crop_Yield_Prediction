@@ -12,19 +12,19 @@ By analyzing these inputs, the model predicts the expected yield (in hectograms 
 
 
 🎯 Objectives
-Predict crop yield more accurately than traditional methods.
-Provide a simple web-based interface (using Streamlit) for easy usage.
-Enable data-driven decision-making in agriculture.
+1.Predict crop yield more accurately than traditional methods.
+2.Provide a simple web-based interface (using Streamlit) for easy usage.
+3.Enable data-driven decision-making in agriculture.
 
 
 🛠️ Tech Stack
-Python 3.11
-Machine Learning Libraries:
+1.Python 3.11
+2.Machine Learning Libraries:
     pandas, numpy → Data preprocessing
     scikit-learn → Model training & evaluation
-Visualization: matplotlib, seaborn
-Deployment: Streamlit (interactive web app)
-Version Control: Git & GitHub
+3.Visualization: matplotlib, seaborn
+4.Deployment: Streamlit (interactive web app)
+5.Version Control: Git & GitHub
 
 
 📂 Project Structure
